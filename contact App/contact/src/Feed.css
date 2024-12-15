@@ -1,0 +1,26 @@
+.probody
+{
+    background-color:#c7bdff ;
+    display: flex;
+    height: 35cm;
+}
+.proin
+{
+    background-color: rgb(207, 156, 247);
+    color: white;
+}
+.marg
+{
+    margin-left: 5cm;
+    margin-top: 2cm;
+}
+.marg1
+{
+    margin-left: 1cm;
+    margin-top: 2cm;
+}
+.ptext
+{
+    background-color:#c7bdff ;
+    /* color: white; */
+}

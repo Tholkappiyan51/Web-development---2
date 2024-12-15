@@ -1,0 +1,93 @@
+.inbody1
+{
+    background-color: rgb(248, 252, 253);
+    background-image: url(https://cdn-icons-png.freepik.com/512/10779/10779304.png);
+    background-repeat: no-repeat;
+    background-size:50%;
+    background-position: center;
+    backface-visibility: visible;
+    background-attachment: fixed;
+    
+}
+.f12
+{
+    display: flex;
+    /* border-radius: 10px; */
+}
+.i12
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+.ff12
+{
+    margin-left: 5cm;
+    border-color: #4a35be;
+    border-radius: 10px;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    backdrop-filter: blur(10px);
+}
+.ff22
+{
+    border-color: #4a35be;
+    margin-left: 5cm;
+    border-radius: 10px;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    backdrop-filter: blur(10px);
+}
+.btn12
+{
+    display:block;
+    width:90%;
+    padding:15px;
+    background-color: #fbf9f9;
+    color:#4a35be;
+    border:none;
+    border-radius:20px;
+    font-size:20px;
+    font-weight:600;
+    opacity:0.8;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.btn22
+{
+    display:block;
+    width:90%;
+    padding:15px;
+    background-color: #fbf9f9;
+    color:#4a35be;
+    border:none;
+    border-radius:20px;
+    font-size:20px;
+    font-weight:600;
+    opacity:0.8;
+    margin-bottom: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.login-btn2{
+    margin-top:25px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+.btn12:hover
+{
+    background-color: green;
+    color: white;
+}
+.btn22:hover
+{
+    background-color: red;
+    color: white;
+}
+.t12
+{
+    color: rgb(12, 12, 12);
+}
